@@ -250,10 +250,10 @@
     which "2.0.2"
     yaml "1.10.2"
 
-"@graphprotocol/graph-ts@0.32.0":
-  version "0.32.0"
-  resolved "https://registry.yarnpkg.com/@graphprotocol/graph-ts/-/graph-ts-0.32.0.tgz#36f8cd8e4ef42c3c32536cceb9995ab990f51d29"
-  integrity sha512-YfKLT2w+ItXD/VPYQiAKtINQONVsAOkcqVFMHlhUy0fcEBVWuFBT53hJNI0/l5ujQa4TSxtzrKW/7EABAdgI8g==
+"@graphprotocol/graph-ts@0.35.0":
+  version "0.35.0"
+  resolved "https://registry.yarnpkg.com/@graphprotocol/graph-ts/-/graph-ts-0.35.0.tgz#d117e3d9a13c3b7ec6bce06b4a15fa2513af673e"
+  integrity sha512-dM+I/e/WeBa8Q3m4ZLFfJjKBS9YwV+DLggWi8oEIGmnhPAZ298QB6H4hquvxqaOTSXJ2j9tPsw3xSmbRLwk39A==
   dependencies:
     assemblyscript "0.19.10"
 
